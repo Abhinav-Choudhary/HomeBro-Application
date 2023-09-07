@@ -1,6 +1,18 @@
 # HomeBro
 A prototype created on Figma and Moqups for Northeastern Universities course CSYE7280 "User Experience Design and Testing".
 
+My Responsibilities:
+1. Auto-fill text fields
+2. Sign In/Sign Up/ Forgot Password Screens
+3. Voice Assistant
+4. Cart Screens
+5. Visualize AR screens
+6. Add Credit and other cards
+7. AI Chatbot
+8. Latest trends blog
+9. Customer Support screens
+10. Feedback Screens
+
 Figma:
 To check the various screens, video demonstration, visit link to online prototype, or check .fig file head to the "Figma" folder.
 
